@@ -1,0 +1,1 @@
+This repository is inspired by the lecture C-3 (by Tomotoshi Nishino) in [計算物理春の学校](https://compphysschool.github.io/2026/). See [strassen.ipynb](https://github.com/LowToneVoice/matrix-multiplication-algorithm/blob/main/strassen.ipynb) for Strassen's algorithm.
